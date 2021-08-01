@@ -9,11 +9,13 @@ I have an apple
 
 # About me
 
-I receice  my
+- I receice  my
+- 
 
 ## Publications
 
-IEEE 
+- **IEEE**
+  my first 
 
 ### Awards
 
