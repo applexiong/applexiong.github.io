@@ -9,7 +9,7 @@ I have an apple
 
 # About me
 
-I receice
+I receice 
 
 ## Publications
 
