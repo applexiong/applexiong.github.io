@@ -40,7 +40,9 @@ I have an appl
 ### School of Information Science and Engineering, 
 ### Southeast University (SEU),
 
-<font color = "black" size = 12>SE</font>
+<font color = "black" size = 12>SEU  
+APP  
+LOVE</font>
 
 # About me
 
