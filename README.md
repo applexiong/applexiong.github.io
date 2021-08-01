@@ -7,13 +7,12 @@ You can use the [editor on GitHub](https://github.com/applexiong/applexiong.gith
 I have an apple
 
 
-<!--
+<!--  添加注释
+
 ![ ](/Picture/My_photo.jpg)
+
 -->
-
-o
-
-
+<!-- 
 <table border="0">
   <tr>
     <td width="50%">
@@ -29,6 +28,7 @@ o
   </tr>
 </table>
 
+-->
 
 
 <img src = "/My_photo.jpg" width = "50%" height = "100%" div align = right />    
