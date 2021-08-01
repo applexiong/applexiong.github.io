@@ -55,14 +55,14 @@ APPP
 -->
 
 
-<font color=black size=4>Ph.D. candidate,  School of Information Science and Engineering,  Southeast University (SEU)  </font>
+<font color=black size=6>Ph.D. candidate,  School of Information Science and Engineering,  Southeast University (SEU)  </font>
 
 
 
 ### <font color=red>Ph.D. candidate,  School of Information Science and Engineering,  Southeast University (SEU)  </font>
 
 
-love
+lov
 
 
 # About me
