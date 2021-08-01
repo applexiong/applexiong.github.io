@@ -32,7 +32,7 @@ ok
 
 
 
-<img src="/My_photo.jpg" width="50%">    
+<img src = "/My_photo.jpg" width = "50%" height = "100%" div align = right />    
 
 
 # About me
