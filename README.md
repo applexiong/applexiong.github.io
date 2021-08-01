@@ -43,8 +43,7 @@ I have an appl
 ### Southeast University (SEU),
 
 <font color = "black" size = 12>SEU
-APP
-LOVE</font>
+<br\>APP<br\>LOVE</font>
 
 
 
