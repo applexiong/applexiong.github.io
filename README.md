@@ -49,11 +49,14 @@ I have an appl
 
 
 <font color = "black" size = 12>SEU</font>  
+
 <font color = "black" size = 12>LOVE</font>  
+
 <font color = "black" size = 12>NBS</font>  
 
 
-appp
+
+app
 
 # About me
 
