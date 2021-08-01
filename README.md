@@ -32,6 +32,7 @@ o
 
 
 
+<img src="/My_photo.jpg" width="50%">    
 
 
 # About me
