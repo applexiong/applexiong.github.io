@@ -7,9 +7,9 @@ You can use the [editor on GitHub](https://github.com/applexiong/applexiong.gith
 I have an apple
 
 
-![ ](/My_photo.jpg)
+![ ](/Picture/My_photo.jpg)
 
-ok 
+o
 
 # About me
 
