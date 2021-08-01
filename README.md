@@ -35,10 +35,10 @@ I have an appl
 
 
 ## Baiping Xiong 
-## Ph.D. candidate,
+### Ph.D. candidate,
 ### xiongbp@seu.edu.cn
-## School of Information Science and Engineering, 
-## Southeast University (SEU),
+### School of Information Science and Engineering, 
+### Southeast University (SEU),
 
 
 
