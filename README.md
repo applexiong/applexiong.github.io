@@ -31,7 +31,7 @@ I have an appl
 -->
 
 
-<img src = "/My_photo.jpg" width = "75%" height = "100%" div align = right />    
+<img src = "/My_photo.jpg" width = "60%" height = "100%" div align = right />    
 
 
 ## Baiping Xiong
