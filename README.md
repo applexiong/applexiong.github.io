@@ -42,8 +42,9 @@ I have an appl
 ### School of Information Science and Engineering, 
 ### Southeast University (SEU),
 
-<font color = "black" size = 12>SEU
-<br\>APP<br\>LOVE</font>
+
+
+<br\>APP<br\>LOVE
 
 
 
