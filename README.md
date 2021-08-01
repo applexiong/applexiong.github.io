@@ -36,7 +36,9 @@ I have an apple
 
 Baiping Xiong
 
-PH.D 
+Ph.D. candidate,
+School of Information Science and Engineering, 
+Southeast University,
 
 
 
