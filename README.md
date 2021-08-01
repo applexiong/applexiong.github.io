@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/applexiong/applexiong.gith
 I have an apple
 
 
-!(/Picture/my_photo.jpg)
+!(/Picture/My_photo.jpg)
 
 # About me
 
