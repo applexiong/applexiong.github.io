@@ -29,7 +29,7 @@ I have an appl
 </table>
 
 -->
-
+ 
 
 <img src = "/My_photo.jpg" width = "65%" height = "100%" div align = right />    
 
