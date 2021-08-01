@@ -43,27 +43,22 @@ I have an appl
 ### Southeast University (SEU),
 
 
+<!--
 SEU  
 LOVE  
 APPP
 
-
 <font size = 12>SEU</font>
-
 <font size = 12>NLOS</font>
-
 <font size = 12>APP</font>
+
+-->
 
 
 <font color = "black" size = 12>Ph.D. candidate,  
 School of Information Science and Engineering,  
 Southeast University (SEU)  </font>  
 
-
-<font color = "black" size = 12>LOVE</font>  
-
-
-<font color = "black" size = 12>NBS</font>  
 
 
 
