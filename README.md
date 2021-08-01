@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/applexiong/applexiong.gith
 I have an apple
 
 
-![12](/My_photo.jpg)
+![](/My_photo.jpg)
 
 # About me
 
