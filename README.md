@@ -7,13 +7,13 @@ You can use the [editor on GitHub](https://github.com/applexiong/applexiong.gith
 I have an apple
  
 
-### About me
+# About me
 
-### Publications
+## Publications
 
 ### Awards
 
-### Recent news
+#### Recent news
  
 
 ### Markdown
