@@ -55,7 +55,9 @@ APPP
 <font size = 12>APP</font>
 
 
-<font color = "black" size = 12>SEU</font>  
+<font color = "black" size = 12>Ph.D. candidate,  
+School of Information Science and Engineering,  
+Southeast University (SEU)  </font>  
 
 
 <font color = "black" size = 12>LOVE</font>  
