@@ -12,7 +12,7 @@ I have an apple
 
 ![ ](/Picture/My_photo.jpg)
 
-ok
+o
 
 
 <table border="0">
