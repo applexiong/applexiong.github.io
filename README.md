@@ -34,7 +34,7 @@ I have an apple
 <img src = "/My_photo.jpg" width = "45%" height = "100%" div align = right />    
 
 
-# Baiping Xiong
+# Baiping Xiong 
 <!--
 ## Baiping Xiong 
 ### Ph.D. candidate,
