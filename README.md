@@ -57,7 +57,7 @@ APPP
 
 <font color = "black" size = 12>Ph.D. candidate,  
 School of Information Science and Engineering,  
-Southeast University (SEU)  </font>  
+Southeast University (SEU)  </font>
 
 
 
