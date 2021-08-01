@@ -44,8 +44,7 @@ I have an appl
 
 
 
-<br/>APP</br>
-LOVE
+
 
 
 
