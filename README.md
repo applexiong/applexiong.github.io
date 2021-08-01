@@ -1,4 +1,4 @@
-```## Baiping Xiong's homepage
+## Baiping Xiong's homepage
 
 ```[Welcome to my homepage](https://applexiong.github.io/).
 
