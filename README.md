@@ -49,13 +49,12 @@ LOVE
 
 
 
-<font color = "black" size = 12>SEU
-  
-APP 
-  
-LOVE</font>
+<font color = "black" size = 12>SEU</font>
+<font color = "black" size = 12>LOVE</font>
+<font color = "black" size = 12>NBS</font>
 
-app
+
+apppp
 
 # About me
 
