@@ -8,7 +8,7 @@ I have an apple
 
 
 [^_^]:
-![ ](/Picture/My_photo.jpg)
+# ![ ](/Picture/My_photo.jpg)
 
 o
 
