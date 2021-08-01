@@ -55,14 +55,14 @@ APPP
 -->
 
 
-<font color = "black" size = 10>Ph.D. candidate,  
+<font color = "black" size = 9>Ph.D. candidate,  
   School of Information Science and Engineering,  
   Southeast University (SEU)  </font>
 
 
 
 
-ap
+app
 
 # About me
 
