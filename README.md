@@ -35,6 +35,12 @@ I have an apple
 
 
 # Baiping Xiong 
+
+- Ph.D. candidate,
+- School of Information Science and Engineering,
+- Southeast University (SEU) 
+
+
 <!--
 ## Baiping Xiong 
 ### Ph.D. candidate,
