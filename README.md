@@ -30,9 +30,9 @@ I have an appl
 
 -->
  
-
+<!--
 <img src = "/My_photo.jpg" width = "45%" height = "100%" div align = right />    
-
+-->
 
 # Baiping Xiong
 
