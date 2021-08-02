@@ -36,7 +36,7 @@ I have an apple
 
 # Baiping Xiong 
 
-- Ph.D. candidate,
+- <font size=5>Ph.D. candidate</font>,
 - School of Information Science and Engineering,
 - Southeast University (SEU) 
 
