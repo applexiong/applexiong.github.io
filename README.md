@@ -1,4 +1,4 @@
-## Baiping Xiong's homepage
+## Apple Xiong's homepage
 
 [Welcome to my homepage](https://applexiong.github.io/).
 
@@ -34,7 +34,7 @@ I have an appl
 <img src = "/My_photo.jpg" width = "45%" height = "100%" div align = right />    
 -->
 
-# Baiping Xiong
+# Apple Xiong
 
 **Ph.D. candidate,**  
 *School of Information Science and Engineering,*  
@@ -42,7 +42,7 @@ I have an appl
 
 
 <!--
-## Baiping Xiong 
+## Apple Xiong 
 ### Ph.D. candidate,
 ### xiongbp@seu.edu.cn
 ### School of Information Science and Engineering, 
